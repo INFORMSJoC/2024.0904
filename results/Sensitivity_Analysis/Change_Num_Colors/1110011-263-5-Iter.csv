@@ -1,0 +1,527 @@
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_1,1,31470.999966,31470.999966,0.000000,1,30001.000000,0.000000,0.000000,1,1469.999966,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_2,1,41482.999906,41482.999906,0.000000,1,40003.000000,0.000000,0.000000,1,1479.999906,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_3,1,41481.999927,41481.999927,0.000000,1,40002.000000,0.000000,0.000000,1,1479.999927,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_1,1,31470.999966,31470.999966,0.000000,1,30001.000000,0.000000,0.000000,1,1469.999966,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_2,1,41482.999906,41482.999906,0.000000,1,40003.000000,0.000000,0.000000,1,1479.999906,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_3,1,41481.999927,41481.999927,0.000000,1,40002.000000,0.000000,0.000000,1,1479.999927,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_7,1,51611.999961,51611.999961,0.000000,1,50002.000000,0.000000,0.000000,1,1609.999961,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_4,1,41612.999961,41612.999961,0.000000,1,40003.000000,0.000000,0.000000,1,1609.999961,0.000000,0,0,0,0,0,0.000000,0,1,1,
+10_6,1,41611.999961,41611.999961,0.000000,1,40002.000000,0.000000,0.000000,1,1609.999961,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_5,1,31471.999966,31471.999966,0.000000,1,30002.000000,0.000000,0.000000,1,1469.999966,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_8,1,31570.999921,31570.999965,0.000000,1,30001.000000,0.000000,0.061536,1,1569.999921,0.000000,5,0,3,0,1,0.002000,0.002000,12,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_9,1,41602.000101,41602.000101,0.000000,1,40002.000000,0.000000,0.000000,1,1600.000101,0.000000,0,0,0,0,0,0.000000,0,1,1,
+10_11,1,41611.999961,41611.999961,0.000000,1,40002.000000,0.000000,0.000000,1,1609.999961,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_12,1,31631.000019,31631.000019,0.000000,1,30001.000000,0.000000,0.000000,1,1630.000019,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_10,1,41571.999965,41571.999965,0.000000,1,40002.000000,0.000000,0.000000,1,1569.999965,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_13,1,41472.000015,41472.000015,0.000000,1,40002.000000,0.000000,0.000000,1,1470.000015,0.000000,0,0,0,0,0,0.000000,0,1,1,
+10_15,1,41530.999955,41530.999955,0.000000,1,40001.000000,0.000000,0.000000,1,1529.999955,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_14,1,31563.000014,31563.000014,0.000000,1,30003.000000,0.000000,0.000000,1,1560.000014,0.000000,0,0,0,0,1,0.002000,0.002000,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_22,1,41641.999995,41641.999995,0.000000,1,40002.000000,0.000000,0.000000,1,1639.999995,0.000000,0,0,0,0,1,0.002000,0.002000,1,1,
+10_21,1,41470.999966,41470.999966,0.000000,1,40001.000000,0.000000,0.000000,1,1469.999966,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_19,1,41521.000038,41521.000038,0.000000,1,40001.000000,0.000000,0.000000,1,1520.000038,0.000000,0,0,0,0,0,0.000000,0,1,1,
+10_16,1,41492.000063,41492.000063,0.000000,1,40002.000000,0.000000,0.000000,1,1490.000063,0.000000,0,0,0,0,0,0.000000,0,1,1,
+10_25,1,41610.999961,41610.999961,0.000000,1,40001.000000,0.000000,0.000000,1,1609.999961,0.000000,0,0,0,0,0,0.000000,0,1,1,
+10_17,1,51631.000019,51631.000019,0.000000,1,50001.000000,0.000000,0.000000,1,1630.000019,0.000000,0,0,0,0,1,0.013000,0.013000,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_23,1,51482.999906,51482.999906,0.000000,1,50003.000000,0.000000,0.000000,1,1479.999906,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_20,1,41601.999970,41601.999970,0.000000,1,40002.000000,0.000000,0.000000,1,1599.999970,0.000000,0,0,0,0,0,0.000000,0,1,1,
+10_18,1,50752.000000,50752.000000,0.000000,1,50002.000000,0.000000,0.000000,1,750.000000,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_24,1,31473.000044,31473.000044,0.000000,1,30003.000000,0.000000,0.000000,1,1470.000044,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_27,1,30963.000035,30963.000035,0.000000,1,30003.000000,0.000000,0.000000,1,960.000035,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_26,1,30962.000029,30962.000029,0.000000,1,30002.000000,0.000000,0.000000,1,960.000029,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_28,1,51522.000008,51522.000008,0.000000,1,50002.000000,0.000000,0.000000,1,1520.000008,0.000000,0,0,0,0,0,0.000000,0,1,1,
+10_30,1,41601.999970,41601.999970,0.000000,1,40002.000000,0.000000,0.000000,1,1599.999970,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+10_29,1,41602.999970,41602.999970,0.000000,1,40003.000000,0.000000,0.000000,1,1599.999970,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+15_4,1,52254.333253,52254.333253,0.002000,1,50001.000000,0.000000,0.000000,1,2253.333253,0.000000,0,0,0,0,0,0.000000,0,1,1,
+15_7,1,42275.333168,42275.333168,0.001000,1,40002.000000,0.000000,0.000000,1,2273.333168,0.000000,0,0,0,0,0,0.000000,0,1,1,
+15_3,1,42343.999938,42343.999938,0.018000,1,40004.000000,0.000000,0.000000,1,2339.999938,0.000000,0,0,0,0,0,0.000000,0,1,1,
+15_10,1,52229.666451,52229.666451,0.015000,1,50003.000000,0.000000,0.164224,1,2226.666451,0.000000,4,1,10,1,3,0.039000,0.013000,26,2,
+15_9,1,52189.666638,52189.666638,0.016000,1,50003.000000,0.000000,0.000000,1,2186.666638,0.000000,0,0,0,0,0,0.000000,0,1,1,
+15_5,1,52383.999655,52230.666373,0.023000,1,50004.000000,0.000000,0.602262,1,2379.999655,0.000000,144,5,28,5,6,0.126000,0.021000,202,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+ ,2,52230.666373,52230.666373,0.091000,1,50004.000000,0.000000,0.000000,1,2226.666373,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+15_2,1,52187.666638,52187.666638,0.009000,1,50001.000000,0.000000,0.000000,1,2186.666638,0.000000,0,0,0,0,1,0.020000,0.020000,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+15_1,1,52283.999822,52283.999822,0.030000,1,50004.000000,0.000000,0.000000,1,2279.999822,0.000000,0,0,0,0,0,0.000000,0,1,1,
+15_6,1,52503.999559,52503.999559,0.021000,1,50004.000000,0.000000,0.000000,1,2499.999559,0.000000,0,0,0,0,1,0.007000,0.007000,1,1,
+15_8,1,52376.333162,52376.333162,0.018000,1,50003.000000,0.000000,0.439547,1,2373.333162,0.000000,33,3,20,0,2,0.040000,0.020000,56,2,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+15_13,1,52309.666443,52309.666443,0.017000,1,50003.000000,0.000000,0.000000,1,2306.666443,0.000000,0,0,0,0,0,0.000000,0,1,1,
+15_15,1,42311.666443,42311.666443,0.030000,1,40005.000000,0.000000,0.330692,1,2306.666443,0.000000,64,0,15,0,1,0.029000,0.029000,66,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+15_12,1,42276.333168,42276.333168,0.007000,1,40003.000000,0.000000,0.000000,1,2273.333168,0.000000,0,0,0,0,0,0.000000,0,1,1,
+15_11,1,52297.333270,52297.333270,0.030000,1,50004.000000,0.000000,0.000000,1,2293.333270,0.000000,0,0,0,0,0,0.000000,0,1,1,
+15_14,1,42283.999927,42284.000022,0.020000,1,40004.000000,0.000000,0.387502,1,2279.999927,0.000000,32,2,13,0,2,0.030000,0.015000,70,2,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+15_24,1,52248.666622,52248.666622,0.006000,1,50002.000000,0.000000,0.000000,1,2246.666622,0.000000,0,0,0,0,0,0.000000,0,1,1,
+15_19,1,52403.000149,52403.000149,0.019000,1,50003.000000,0.000000,0.000000,1,2400.000149,0.000000,0,0,0,0,1,0.019000,0.019000,1,1,
+15_20,1,52256.333223,52256.333223,0.018000,1,50003.000000,0.000000,0.000000,1,2253.333223,0.000000,0,0,0,0,0,0.000000,0,1,1,
+15_23,1,52423.000154,52403.000149,0.015000,1,50003.000000,0.000000,0.416996,1,2420.000154,0.000000,67,0,1,1,3,0.039000,0.013000,68,2,
+15_18,1,52176.333186,52176.333186,0.016000,1,50003.000000,0.000000,0.000000,1,2173.333186,0.000000,0,0,0,0,0,0.000000,0,1,1,
+ ,2,52403.000149,52403.000149,0.047000,1,50003.000000,0.000000,0.002000,1,2400.000149,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+15_16,1,52322.999933,52322.999933,0.021000,1,50003.000000,0.000000,0.000000,1,2319.999933,0.000000,0,0,0,0,1,0.007000,0.007000,1,1,
+15_22,1,42242.999905,42242.999905,0.014000,1,40003.000000,0.000000,0.000000,1,2239.999905,0.000000,0,0,0,0,0,0.000000,0,1,1,
+15_25,1,42249.666622,42249.666622,0.015000,1,40003.000000,0.000000,0.000000,1,2246.666622,0.000000,0,0,0,0,0,0.000000,0,1,1,
+15_17,1,42290.666551,42290.666551,0.023000,1,40004.000000,0.000000,0.000000,1,2286.666551,0.000000,0,0,0,0,0,0.000000,0,1,1,
+15_21,1,52458.333127,52458.333127,0.050000,1,50005.000000,0.000000,0.174240,1,2453.333127,0.000000,6,2,6,0,1,0.019000,0.019000,22,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+15_26,1,52227.666373,52227.666373,0.004000,1,50001.000000,0.000000,0.136647,1,2226.666373,0.000000,12,1,4,0,1,0.010000,0.010000,24,1,
+15_30,1,42284.000022,42284.000022,0.021000,1,40004.000000,0.000000,0.000000,1,2280.000022,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+15_28,1,62280.999822,62280.999822,0.009000,1,60001.000000,0.000000,0.000000,1,2279.999822,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+15_29,1,42255.333169,42255.333169,0.003000,1,40002.000000,0.000000,0.000000,1,2253.333169,0.000000,0,0,0,0,0,0.000000,0,1,1,
+15_27,1,52310.666443,52310.666443,0.027000,1,50004.000000,0.000000,0.000000,1,2306.666443,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+20_2,1,63062.999579,63062.999612,0.107000,1,60003.000000,0.000000,0.246084,1,3059.999579,0.000000,1,1,3,0,1,0.039000,0.039000,8,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+20_7,1,43223.000142,43223.000142,0.062000,1,40003.000000,0.000000,1.003957,1,3220.000142,0.000000,309,2,65,9,10,0.374000,0.037400,336,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+20_10,1,53003.000000,53003.000000,0.104000,1,50003.000000,0.000000,0.979587,1,3000.000000,0.000000,87,2,82,0,4,0.098000,0.024500,112,4,
+20_3,1,63021.999750,63021.999772,0.130000,1,60002.000000,0.000000,0.624867,1,3019.999750,0.000000,133,1,15,0,1,0.037000,0.037000,106,1,
+20_5,1,63242.999795,63242.999795,0.244000,1,60003.000000,0.000000,0.625447,1,3239.999795,0.000000,54,0,8,0,2,0.052000,0.026000,34,2,
+20_4,1,63022.999963,63022.999963,0.190000,1,60003.000000,0.000000,0.000000,1,3019.999963,0.000000,0,0,0,0,0,0.000000,0,1,1,
+20_9,1,63062.999831,63062.999853,0.213000,1,60003.000000,0.000000,0.638177,1,3059.999831,0.000000,44,0,7,4,5,0.312000,0.062400,28,1,
+20_6,1,53024.999999,53024.999999,0.543000,1,50005.000000,0.000000,1.382464,1,3019.999999,0.000000,405,10,232,1,3,0.214000,0.071333,598,2,
+20_1,1,63063.999728,63063.999728,0.449000,1,60004.000000,0.000000,0.000000,1,3059.999728,0.000000,0,0,0,0,0,0.000000,0,1,1,
+20_8,1,63204.000018,63204.000018,0.450000,1,60004.000000,0.000000,0.968096,1,3200.000018,0.000000,33,0,23,3,4,0.236000,0.059000,74,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+20_20,1,63040.999810,63040.999810,0.040000,1,60001.000000,0.000000,0.000000,1,3039.999810,0.000000,0,0,0,0,0,0.000000,0,1,1,
+20_16,1,53223.000142,53223.000142,0.229000,1,50003.000000,0.000000,0.185389,1,3220.000142,0.000000,17,0,0,0,1,0.019000,0.019000,8,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+20_19,1,63002.000000,63002.000000,0.118000,1,60002.000000,0.000000,0.000000,1,3000.000000,0.000000,0,0,0,0,0,0.000000,0,1,1,
+20_17,1,53283.999441,53283.999441,0.219000,1,50004.000000,0.000000,0.853534,1,3279.999441,0.000000,481,0,12,1,2,0.147000,0.073500,320,1,
+20_13,1,63363.999949,63084.000025,0.311000,1,60004.000000,0.000000,2.939108,1,3359.999949,0.000000,1050,6,202,4,6,0.584000,0.097333,1480,2,
+20_18,1,63062.999968,63062.999968,0.195000,1,60003.000000,0.000000,3.383922,1,3059.999968,0.000000,101,1,14,5,6,1.791000,0.298500,78,1,
+20_12,1,53064.999728,53064.999728,0.478000,1,50005.000000,0.000000,0.000000,1,3059.999728,0.000000,0,0,0,0,0,0.000000,0,1,1,
+20_11,1,63022.999772,63022.999772,0.210000,1,60003.000000,0.000000,0.000000,1,3019.999772,0.000000,0,0,0,0,0,0.000000,0,1,1,
+20_15,1,53204.999768,53204.999768,0.564000,1,50005.000000,0.000000,0.000000,1,3199.999768,0.000000,0,0,0,0,0,0.000000,0,1,1,
+20_14,1,63024.999772,63024.999772,0.531000,1,60005.000000,0.000000,0.000000,1,3019.999772,0.000000,0,0,0,0,0,0.000000,0,1,1,
+ ,2,63363.999949,63084.000025,2.009000,1,60004.000000,0.000000,0.924548,1,3359.999899,0.000000,221,3,3,3,4,0.163000,0.040750,278,1,
+ ,3,63084.000025,63084.000025,0.980000,1,60004.000000,0.000000,1.012959,1,3080.000025,0.000000,251,2,32,4,5,0.267000,0.053400,276,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+20_24,1,53080.999760,53080.999760,0.024000,1,50001.000000,0.000000,1.248200,1,3079.999760,0.000000,228,1,20,6,7,0.421000,0.060143,186,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+20_29,1,63201.000244,63201.000244,0.111000,1,60001.000000,0.000000,0.836355,1,3200.000244,0.000000,251,0,18,0,2,0.051000,0.025500,266,2,
+20_23,1,63001.999585,63001.999585,0.135000,1,60002.000000,0.000000,0.000000,1,2999.999585,0.000000,0,0,0,0,0,0.000000,0,1,1,
+20_25,1,63003.000000,63003.000000,0.211000,1,60003.000000,0.000000,0.000000,1,3000.000000,0.000000,0,0,0,0,0,0.000000,0,1,1,
+20_22,1,53242.999795,53242.999795,0.198000,1,50003.000000,0.000000,0.000000,1,3239.999795,0.000000,0,0,0,0,1,0.033000,0.033000,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+20_30,1,63022.000046,63022.000046,0.149000,1,60002.000000,0.000000,0.288060,1,3020.000046,0.000000,0,0,23,1,3,0.071000,0.023667,14,2,
+20_27,1,63003.000000,63003.000000,0.150000,1,60003.000000,0.000000,0.960645,1,3000.000000,0.000000,402,2,80,0,1,0.038000,0.038000,328,1,
+20_21,1,73202.000244,73202.000244,0.225000,1,70002.000000,0.000000,0.000000,1,3200.000244,0.000000,0,0,0,0,0,0.000000,0,1,1,
+20_26,1,53064.999853,53064.999853,0.475000,1,50005.000000,0.000000,0.000000,1,3059.999853,0.000000,0,0,0,0,0,0.000000,0,1,1,
+20_28,1,62963.999946,62963.999946,0.472000,1,60004.000000,0.000000,0.000000,1,2959.999946,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+25_5,1,63849.999954,63849.999954,0.156000,1,60002.000000,0.000000,0.000000,1,3847.999954,0.000000,0,0,0,0,0,0.000000,0,1,1,
+25_4,1,74244.998946,74244.998975,0.909000,1,70001.000000,0.000000,1.876499,1,4243.998946,0.000000,82,4,86,8,9,0.603000,0.067000,140,1,
+25_6,1,53795.999730,53795.999683,2.408000,1,50004.000000,0.000000,0.653481,1,3791.999730,0.000000,85,0,0,0,2,0.117000,0.058500,34,2,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+25_7,1,64810.999760,64090.999588,1.945000,1,60003.000000,0.000000,14.612204,1,4807.999760,0.000000,11280,1,333,45,46,3.106000,0.067522,5396,1,
+25_8,1,74034.999981,74034.999981,2.747000,1,70003.000000,0.000000,1.155976,1,4031.999981,0.000000,257,1,34,0,1,0.068000,0.068000,354,1,
+ ,2,64090.999588,64090.999588,15.442000,1,60003.000000,0.000000,0.955051,1,4087.999588,0.000000,150,0,18,0,1,0.059000,0.059000,84,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+25_9,1,74087.999228,74087.999228,1.456000,1,70004.000000,0.000000,0.000000,1,4083.999228,0.000000,0,0,0,0,0,0.000000,0,1,1,
+25_10,1,73825.999599,73825.999599,1.455000,1,70002.000000,0.000000,1.666212,1,3823.999599,0.000000,592,0,42,0,1,0.088000,0.088000,388,1,
+25_11,1,53900.998988,53900.999023,2.992000,1,50005.000000,0.000000,3.533096,1,3895.998988,0.000000,477,3,100,18,19,2.249000,0.118368,464,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+25_12,1,83848.999823,83848.999823,1.308000,1,80001.000000,0.000000,0.469216,1,3847.999823,0.000000,8,1,4,1,2,0.121000,0.060500,16,1,
+25_13,1,73833.999946,73833.999946,1.768000,1,70002.000000,0.000000,0.000000,1,3831.999946,0.000000,0,0,0,0,0,0.000000,0,1,1,
+25_14,1,53837.999978,53837.999978,6.219000,1,50006.000000,0.000000,0.000000,1,3831.999978,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+25_16,1,73794.999921,73794.999921,1.592000,1,70003.000000,0.000000,0.000000,1,3791.999921,0.000000,0,0,0,0,1,0.093000,0.093000,1,1,
+25_15,1,74293.999716,73857.999750,1.585000,1,70002.000000,0.000000,1.282681,1,4291.999716,0.000000,367,0,42,0,1,0.107000,0.107000,260,1,
+25_17,1,64034.999981,64034.999981,1.921000,1,60003.000000,0.000000,0.000000,1,4031.999981,0.000000,0,0,0,0,0,0.000000,0,1,1,
+ ,2,74293.999716,73857.999750,12.209000,1,70002.000000,0.000000,0.798501,1,6959.999698,0.000000,96,0,21,1,2,0.137000,0.068500,68,1,
+ ,3,73857.999750,73857.999750,0.901000,1,70002.000000,0.000000,1.174298,1,3855.999750,0.000000,23,3,66,1,2,0.110000,0.055000,74,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+25_20,1,73827.000603,73827.000603,0.759000,1,70003.000000,0.000000,0.000000,1,3824.000603,0.000000,0,0,0,0,1,0.055000,0.055000,1,1,
+25_19,1,63875.999198,63875.999198,1.148000,1,60004.000000,0.000000,0.000000,1,3871.999198,0.000000,0,0,0,0,1,0.056000,0.056000,1,1,
+25_18,1,53848.000065,53848.000065,1.452000,1,50004.000000,0.000000,0.000000,1,3844.000065,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+25_21,1,63861.000218,63861.000218,1.734000,1,60005.000000,0.000000,24.787567,1,3856.000218,0.000000,2610,7,474,281,282,18.676000,0.066227,3558,1,
+25_22,1,64115.999956,64115.999956,2.898000,1,60004.000000,0.000000,0.000000,1,4111.999956,0.000000,0,0,0,0,1,0.344000,0.344000,1,1,
+25_23,1,73910.999218,73910.999218,2.790000,1,70003.000000,0.000000,0.000000,1,3907.999218,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+25_25,1,63794.999698,63794.999698,1.958000,1,60003.000000,0.000000,0.000000,1,3791.999698,0.000000,0,0,0,0,0,0.000000,0,1,1,
+25_24,1,53805.999842,53805.999842,6.337000,1,50006.000000,0.000000,0.000000,1,3799.999842,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+25_27,1,63844.999556,63844.999560,1.882000,1,60005.000000,0.000000,1.560882,1,3839.999556,0.000000,22,0,6,0,1,0.393000,0.393000,40,1,
+25_26,1,64379.999457,63875.999198,2.426000,1,60004.000000,0.000000,9.976854,1,4375.999457,0.000000,562,5,311,80,81,7.333000,0.090531,960,1,
+ ,2,63875.999198,63875.999198,22.001000,1,60004.000000,0.000000,0.010000,1,3871.999198,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+25_28,1,64015.000078,64015.000078,1.869000,1,60003.000000,0.000000,1.956584,1,4012.000078,0.000000,249,7,72,2,4,0.430000,0.107500,346,2,
+25_30,1,64078.000486,64078.000486,2.595000,1,60006.000000,0.000000,2.834798,1,4072.000486,0.000000,1498,2,145,2,3,0.245000,0.081667,1414,1,
+25_29,1,63819.999690,63819.999690,3.202000,1,60004.000000,0.000000,0.000000,1,3815.999690,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+30_1,1,75067.333753,74547.333748,10.460000,1,70004.000000,0.000000,37.576329,1,5063.333753,0.000000,6752,16,454,96,97,15.758000,0.162454,6040,1,
+ ,2,74547.333748,74547.333748,115.783000,1,70004.000000,0.000000,2.579000,1,4543.333748,0.000000,0,0,0,0,1,1.835000,1.835000,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+30_2,1,74632.999509,74632.999509,7.892000,1,70003.000000,0.000000,1.776829,1,4629.999509,0.000000,343,1,98,0,1,0.094000,0.094000,350,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+30_3,1,74828.333111,74574.999790,20.851000,1,70005.000000,0.000000,6.537785,1,4823.333111,0.000000,683,4,106,14,15,5.572000,0.371467,596,1,
+ ,2,74574.999790,74574.999790,245.709000,1,70005.000000,0.000000,21.478155,1,4569.999790,0.000000,9201,4,251,24,27,8.590000,0.318148,5316,3,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+30_4,1,74812.999223,74672.999254,25.364000,1,70003.000000,0.000000,2.499000,1,4809.999223,0.000000,1161,1,0,4,5,4.609000,0.921800,598,1,
+ ,2,74672.999229,74672.999254,296.091000,1,70003.000000,0.000000,14.431801,1,4669.999229,0.000000,3366,17,871,18,20,2.797000,0.139850,3258,2,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+30_5,1,74606.332558,74606.332558,18.417000,1,70003.000000,0.000000,0.000000,1,4603.332558,0.000000,0,0,0,0,0,0.000000,0,1,1,
+30_6,1,74413.999737,74413.999737,16.535000,1,70004.000000,0.000000,0.000000,1,4409.999737,0.000000,0,0,0,0,1,2.798000,2.798000,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+30_7,1,85002.998224,85002.998224,10.104000,1,80003.000000,0.000000,0.000000,1,4999.998224,0.000000,0,0,0,0,0,0.000000,0,1,1,
+30_8,1,84572.999695,84572.999589,9.713000,1,80003.000000,0.000000,2.095375,1,4569.999695,0.000000,253,0,25,2,3,0.466000,0.155333,232,1,
+30_10,1,74614.000013,74614.000026,10.059000,1,70004.000000,0.000000,4.027020,1,4610.000013,0.000000,447,12,499,7,11,1.378000,0.125273,780,4,
+30_9,1,74573.000252,74573.000252,15.389000,1,70003.000000,0.000000,0.000000,1,4570.000252,0.000000,0,0,0,0,0,0.000000,0,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+30_11,1,84654.333108,84507.666601,9.359000,1,80001.000000,0.000000,16.682857,1,4653.333108,0.000000,3416,7,209,13,14,2.996000,0.214000,2264,1,
+30_15,1,85003.998224,85003.998224,6.707000,1,80004.000000,0.000000,0.000000,1,4999.998224,0.000000,0,0,0,0,0,0.000000,0,1,1,
+30_13,1,94891.999771,94891.999771,7.533000,1,90002.000000,0.000000,0.000000,1,4889.999771,0.000000,0,0,0,0,1,1.160000,1.160000,1,1,
+30_12,1,84561.999651,84561.999651,8.028000,1,80002.000000,0.000000,0.000000,1,4559.999651,0.000000,0,0,0,0,1,1.283000,1.283000,1,1,
+30_14,1,74549.665859,74549.665859,12.997000,1,70003.000000,0.000000,0.000000,1,4546.665859,0.000000,0,0,0,0,0,0.000000,0,1,1,
+ ,2,84554.333382,84507.666601,99.288000,1,80001.000000,0.000000,2.911911,1,4553.333382,0.000000,113,0,45,0,1,0.121000,0.121000,138,1,
+ ,3,84554.333382,84507.666601,5.002000,1,80001.000000,0.000000,17.267639,1,4553.333222,0.000000,551,5,341,33,38,6.863000,0.180605,902,5,
+ ,4,84554.333382,84507.666601,17.507000,1,80001.000000,0.000000,13.379528,1,4553.333305,0.000000,776,3,75,5,8,1.641000,0.205125,800,3,
+ ,5,84554.333382,84507.666601,13.580000,1,80001.000000,0.000000,9.037469,1,4553.333276,0.000000,106,2,53,4,7,0.913000,0.130429,220,3,
+ ,6,84554.333382,84507.666601,9.237000,1,80001.000000,0.000000,11.580927,1,4553.332367,0.000000,296,4,157,14,16,2.615000,0.163438,438,2,
+ ,7,84554.333382,84507.666601,11.793000,1,80001.000000,0.000000,3.981686,1,4553.333278,0.000000,3,1,24,7,8,2.114000,0.264250,30,1,
+ ,8,84554.333382,84507.666601,4.166000,1,80001.000000,0.000000,16.343590,1,4553.332937,0.000000,318,1,173,73,75,11.407000,0.152093,790,2,
+ ,9,84554.333382,84507.666601,16.563000,1,80001.000000,0.000000,1.985244,1,4553.333372,0.000000,34,0,7,0,1,0.129000,0.129000,36,1,
+ ,10,84554.333382,84507.666601,2.172000,1,80001.000000,0.000000,3.255699,1,4553.333318,0.000000,15,1,10,0,2,0.468000,0.234000,24,2,
+ ,11,84554.333382,84507.666601,3.437000,1,80001.000000,0.000000,7.191776,1,4553.333286,0.000000,577,1,26,0,2,0.285000,0.142500,438,2,
+ ,12,84554.333382,84507.666601,7.380000,1,80001.000000,0.000000,1.710333,1,4553.333414,0.000000,29,0,19,0,1,0.156000,0.156000,40,1,
+ ,13,84554.333382,84507.666601,1.901000,1,80001.000000,0.000000,4.695839,1,4553.333363,0.000000,553,3,54,3,4,0.659000,0.164750,624,1,
+ ,14,84554.333382,84507.666601,4.889000,1,80001.000000,0.000000,18.819682,1,4553.333270,0.000000,2283,4,152,18,22,3.454000,0.157000,1660,4,
+ ,15,84554.333382,84507.666601,19.011000,1,80001.000000,0.000000,4.094911,1,4553.333294,0.000000,120,0,16,12,13,1.676000,0.128923,146,1,
+ ,16,84554.333382,84507.666601,4.306000,1,80001.000000,0.000000,10.851021,1,4553.333386,0.000000,1335,2,242,26,27,4.015000,0.148704,1416,1,
+ ,17,84554.333382,84507.666601,11.032000,1,80001.000000,0.000000,16.531096,1,4553.333414,0.000000,381,4,201,63,64,9.703000,0.151609,726,1,
+ ,18,84554.333382,84507.666601,16.731000,1,80001.000000,0.000000,3.332010,1,4553.333130,0.000000,56,4,42,3,4,0.539000,0.134750,116,1,
+ ,19,84554.333382,84507.666601,3.515000,1,80001.000000,0.000000,15.987911,1,4553.333296,0.000000,361,8,290,51,54,6.724000,0.124519,784,3,
+ ,20,84554.333382,84507.666601,16.183000,1,80001.000000,0.000000,16.055148,1,4553.333318,0.000000,546,3,266,58,59,8.693000,0.147339,836,1,
+ ,21,84554.333382,84507.666601,16.291000,1,80001.000000,0.000000,7.155547,1,4553.333318,0.000000,473,3,126,7,11,1.414000,0.128545,570,4,
+ ,22,84554.333382,84507.666601,7.350000,1,80001.000000,0.000000,5.581665,1,4553.333312,0.000000,103,2,112,4,7,1.216000,0.173714,202,3,
+ ,23,84554.333382,84507.666601,5.790000,1,80001.000000,0.000000,12.907140,1,4553.333318,0.000000,526,2,234,16,18,2.769000,0.153833,666,2,
+ ,24,84554.333382,84507.666601,13.125000,1,80001.000000,0.000000,5.450473,1,4553.333350,0.000000,849,4,171,3,4,0.532000,0.133000,780,1,
+ ,25,84554.333382,84507.666601,5.643000,1,80001.000000,0.000000,6.465870,1,4553.333000,0.000000,508,4,127,3,4,0.739000,0.184750,542,1,
+ ,26,84554.333382,84507.666601,6.661000,1,80001.000000,0.000000,7.788797,1,4553.333318,0.000000,48,4,100,3,5,0.969000,0.193800,110,2,
+ ,27,84554.333382,84507.666601,7.978000,1,80001.000000,0.000000,7.366957,1,4553.333318,0.000000,94,2,61,23,24,3.720000,0.155000,232,1,
+ ,28,84554.333382,84507.666601,7.571000,1,80001.000000,0.000000,8.704179,1,4553.333287,0.000000,1518,1,43,19,20,3.017000,0.150850,904,1,
+ ,29,84554.333382,84507.666601,8.895000,1,80001.000000,0.000000,4.642612,1,4553.333064,0.000000,541,0,49,2,3,0.651000,0.217000,512,1,
+ ,30,84554.333382,84507.666601,4.832000,1,80001.000000,0.000000,10.102503,1,4553.333127,0.000000,371,4,173,8,10,2.291000,0.229100,570,2,
+ ,31,84554.333382,84507.666601,10.293000,1,80001.000000,0.000000,2.573142,1,4553.333318,0.000000,0,2,9,1,3,0.431000,0.143667,16,2,
+ ,32,84554.333382,84507.666601,2.766000,1,80001.000000,0.000000,4.185697,1,4553.333318,0.000000,176,1,8,1,3,0.353000,0.117667,212,2,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+ ,33,84554.333382,84507.666601,4.381000,1,80001.000000,0.000000,21.968292,1,4553.332937,0.000000,232,2,162,80,83,12.175000,0.146687,536,3,
+ ,34,84554.333382,84507.666601,22.206000,1,80001.000000,0.000000,2.522252,1,4553.333318,0.000000,44,1,17,0,2,0.342000,0.171000,74,2,
+ ,35,84554.333382,84507.666601,2.726000,1,80001.000000,0.000000,4.766513,1,4553.332818,0.000000,106,6,98,1,5,0.783000,0.156600,162,4,
+ ,36,84554.333382,84507.666601,4.948000,1,80001.000000,0.000000,4.720661,1,4553.333247,0.000000,332,1,71,2,3,0.456000,0.152000,364,1,
+ ,37,84554.333382,84507.666601,4.903000,1,80001.000000,0.000000,15.482022,1,4553.333318,0.000000,4434,4,170,4,8,1.258000,0.157250,2630,4,
+ ,38,84554.333382,84507.666601,15.692000,1,80001.000000,0.000000,22.513617,1,4553.333374,0.000000,2880,8,518,29,33,5.888000,0.178424,2052,4,
+ ,39,84554.333382,84507.666601,22.714000,1,80001.000000,0.000000,17.270747,1,4553.333223,0.000000,1173,5,176,15,17,2.126000,0.125059,1092,2,
+ ,40,84554.333382,84507.666601,17.479000,1,80001.000000,0.000000,6.894545,1,4553.333414,0.000000,2063,5,136,8,9,1.084000,0.120444,1770,1,
+ ,41,84554.333382,84507.666601,7.100000,1,80001.000000,0.000000,33.258263,1,4553.333215,0.000000,419,6,296,147,149,24.475000,0.164262,1006,2,
+ ,42,84554.333382,84507.666601,33.454000,1,80001.000000,0.000000,28.932063,1,4653.333223,0.000000,5375,7,267,14,15,2.462000,0.164133,2876,1,
+ ,43,84554.333382,84507.666601,29.133000,1,80001.000000,0.000000,3.960975,1,4553.333318,0.000000,516,1,124,0,1,0.127000,0.127000,402,1,
+ ,44,84554.333382,84507.666601,4.147000,1,80001.000000,0.000000,19.595304,1,4653.333210,0.000000,4243,10,242,4,5,0.778000,0.155600,1824,1,
+ ,45,84554.333382,84507.666601,19.789000,1,80001.000000,0.000000,3.436878,1,4553.333286,0.000000,164,2,90,1,2,0.266000,0.133000,260,1,
+ ,46,84554.333382,84507.666601,3.613000,1,80001.000000,0.000000,18.107090,1,4553.332905,0.000000,2083,7,322,38,42,5.756000,0.137048,1766,4,
+ ,47,84554.333382,84507.666601,18.302000,1,80001.000000,0.000000,12.850607,1,4553.333414,0.000000,1318,4,130,26,27,4.977000,0.184333,1228,1,
+ ,48,84554.333382,84507.666601,13.062000,1,80001.000000,0.000000,4.217466,1,4553.333318,0.000000,255,1,67,4,6,0.919000,0.153167,330,2,
+ ,49,84554.333382,84507.666601,4.413000,1,80001.000000,0.000000,1.628630,1,4553.333414,0.000000,6,0,7,0,1,0.199000,0.199000,14,1,
+ ,50,84554.333382,84507.666601,1.812000,1,80001.000000,0.000000,15.537467,1,4553.333214,0.000000,1562,3,102,15,18,3.560000,0.197778,1158,3,
+ ,51,84554.333382,84507.666601,15.733000,1,80001.000000,0.000000,12.692227,1,4653.333111,0.000000,2294,4,58,1,2,0.266000,0.133000,1224,1,
+ ,52,84554.333382,84507.666601,12.903000,1,80001.000000,0.000000,15.628397,1,4553.332636,0.000000,661,2,126,12,17,3.210000,0.188824,826,5,
+ ,53,84554.333382,84507.666601,15.833000,1,80001.000000,0.000000,6.037587,1,4653.333318,0.000000,738,2,55,4,5,0.959000,0.191800,678,1,
+ ,54,84554.333382,84507.666601,6.227000,1,80001.000000,0.000000,3.853210,1,4553.333318,0.000000,213,0,16,8,9,1.282000,0.142444,248,1,
+ ,55,84554.333382,84507.666601,4.033000,1,80001.000000,0.000000,3.222933,1,4553.333318,0.000000,187,1,16,2,5,0.597000,0.119400,164,3,
+ ,56,84554.333382,84507.666601,3.413000,1,80001.000000,0.000000,12.440978,1,4553.332966,0.000000,907,8,193,8,10,1.832000,0.183200,954,2,
+ ,57,84554.333382,84507.666601,12.636000,1,80001.000000,0.000000,1.537229,1,4553.333243,0.000000,2,1,8,0,1,0.126000,0.126000,20,1,
+ ,58,84554.333382,84507.666601,1.713000,1,80001.000000,0.000000,2.133481,1,4653.333229,0.000000,13,1,2,2,3,0.370000,0.123333,36,1,
+ ,59,84554.333382,84507.666601,2.312000,1,80001.000000,0.000000,8.599786,1,4553.333223,0.000000,1086,8,169,1,3,0.409000,0.136333,1014,2,
+ ,60,84554.333382,84507.666601,8.791000,1,80001.000000,0.000000,15.939421,1,4653.333188,0.000000,2358,5,220,13,18,2.095000,0.116389,1928,5,
+ ,61,84554.333382,84507.666601,16.149000,1,80001.000000,0.000000,2.796897,1,4553.333296,0.000000,130,0,28,1,2,0.241000,0.120500,140,1,
+ ,62,84554.333382,84507.666601,2.976000,1,80001.000000,0.000000,24.210250,1,4553.333231,0.000000,320,4,227,4,11,2.395000,0.217727,532,7,
+ ,63,84554.333382,84507.666601,24.457000,1,80001.000000,0.000000,2.863517,1,4553.333296,0.000000,149,0,63,3,4,0.504000,0.126000,160,1,
+ ,64,84554.333382,84507.666601,3.066000,1,80001.000000,0.000000,3.196003,1,4553.333390,0.000000,422,0,129,1,2,0.249000,0.124500,634,1,
+ ,65,84554.333382,84507.666601,3.377000,1,80001.000000,0.000000,2.918580,1,4553.333280,0.000000,86,0,20,4,5,0.632000,0.126400,86,1,
+ ,66,84554.333382,84507.666601,3.112000,1,80001.000000,0.000000,10.100043,1,4653.333194,0.000000,79,1,74,5,9,1.613000,0.179222,102,4,
+ ,67,84554.333382,84507.666601,10.282000,1,80001.000000,0.000000,16.759582,1,4553.333318,0.000000,394,5,190,3,6,1.830000,0.305000,574,3,
+ ,68,84554.333382,84507.666601,17.010000,1,80001.000000,0.000000,9.885739,1,4653.333223,0.000000,2010,1,118,3,5,1.050000,0.210000,1278,2,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+ ,69,84554.333382,84507.666601,10.084000,1,80001.000000,0.000000,12.834846,1,4553.333318,0.000000,414,3,116,3,6,0.839000,0.139833,530,3,
+ ,70,84554.333382,84507.666601,13.100000,1,80001.000000,0.000000,13.336947,1,4653.333242,0.000000,1020,3,292,1,4,0.976000,0.244000,1046,3,
+ ,71,84554.333382,84507.666601,13.547000,1,80001.000000,0.000000,14.427398,1,4653.333223,0.000000,3325,4,102,0,1,0.132000,0.132000,2038,1,
+ ,72,84554.333382,84507.666601,14.640000,1,80001.000000,0.000000,22.443794,1,4653.333127,0.000000,4786,2,56,6,7,0.918000,0.131143,3418,1,
+ ,73,84554.333382,84507.666601,22.652000,1,80001.000000,0.000000,7.528061,1,4653.333221,0.000000,1452,2,62,2,3,0.416000,0.138667,990,1,
+ ,74,84554.333382,84507.666601,7.715000,1,80001.000000,0.000000,9.346848,1,4553.333253,0.000000,844,4,329,3,4,0.644000,0.161000,998,1,
+ ,75,84554.333382,84507.666601,9.545000,1,80001.000000,0.000000,7.496730,1,4553.333414,0.000000,475,3,152,10,12,2.453000,0.204417,556,2,
+ ,76,84554.333382,84507.666601,7.680000,1,80001.000000,0.000000,2.978857,1,4553.333225,0.000000,31,1,83,2,3,0.386000,0.128667,82,1,
+ ,77,84554.333382,84507.666601,3.173000,1,80001.000000,0.000000,9.737434,1,4553.333318,0.000000,2920,2,0,1,2,0.260000,0.130000,1300,1,
+ ,78,84554.333382,84507.666601,9.919000,1,80001.000000,0.000000,1.704897,1,4553.333278,0.000000,15,0,12,0,1,0.143000,0.143000,26,1,
+ ,79,84554.333382,84507.666601,1.900000,1,80001.000000,0.000000,4.366131,1,4553.333318,0.000000,875,2,94,1,2,0.257000,0.128500,740,1,
+ ,80,84554.333382,84507.666601,4.546000,1,80001.000000,0.000000,9.337719,1,4553.333318,0.000000,2908,1,59,2,5,1.007000,0.201400,1298,3,
+ ,81,84554.333382,84507.666601,9.536000,1,80001.000000,0.000000,3.185964,1,4553.333270,0.000000,206,0,11,2,3,0.385000,0.128333,160,1,
+ ,82,84554.333382,84507.666601,3.380000,1,80001.000000,0.000000,4.835530,1,4553.333318,0.000000,151,2,16,0,2,0.254000,0.127000,186,2,
+ ,83,84554.333382,84507.666601,5.013000,1,80001.000000,0.000000,26.663211,1,4653.333162,0.000000,6133,5,213,7,8,1.118000,0.139750,2592,1,
+ ,84,84554.333382,84507.666601,26.864000,1,80001.000000,0.000000,6.879974,1,4553.333388,0.000000,672,2,80,8,11,1.717000,0.156091,694,3,
+ ,85,84554.333382,84507.666601,7.062000,1,80001.000000,0.000000,17.587917,1,4553.332214,0.000000,1700,13,487,16,18,2.274000,0.126333,1734,2,
+ ,86,84554.333382,84507.666601,17.786000,1,80001.000000,0.000000,1.405239,1,4553.333388,0.000000,15,0,1,1,2,0.247000,0.123500,18,1,
+ ,87,84554.333382,84507.666601,1.583000,1,80001.000000,0.000000,2.333723,1,4553.333318,0.000000,47,0,5,0,2,0.246000,0.123000,64,2,
+ ,88,84554.333382,84507.666601,2.521000,1,80001.000000,0.000000,4.642405,1,4553.333318,0.000000,27,6,250,1,5,0.604000,0.120800,156,4,
+ ,89,84554.333382,84507.666601,4.831000,1,80001.000000,0.000000,5.490464,1,4553.333243,0.000000,317,1,37,0,1,0.115000,0.115000,270,1,
+ ,90,84554.333382,84507.666601,5.668000,1,80001.000000,0.000000,4.040213,1,4653.333223,0.000000,270,2,31,0,2,0.700000,0.350000,236,2,
+ ,91,84554.333382,84507.666601,4.231000,1,80001.000000,0.000000,11.519020,1,4553.333318,0.000000,586,1,33,0,2,0.301000,0.150500,452,2,
+30_17,1,74723.999313,74723.999313,8.622000,1,70004.000000,0.000000,0.000000,1,4719.999313,0.000000,0,0,0,0,1,1.330000,1.330000,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+ ,92,84554.333382,84507.666601,11.718000,1,80001.000000,0.000000,25.133868,1,4653.333227,0.000000,4323,8,301,24,25,4.080000,0.163200,4000,1,
+ ,93,84554.333382,84507.666601,25.357000,1,80001.000000,0.000000,31.610525,1,4553.332894,0.000000,7190,5,215,1,3,0.403000,0.134333,3406,2,
+ ,94,84554.333382,84507.666601,31.810000,1,80001.000000,0.000000,2.206170,1,4553.333378,0.000000,8,0,67,2,3,0.367000,0.122333,40,1,
+ ,95,84554.333382,84507.666601,2.385000,1,80001.000000,0.000000,11.904171,1,4553.333262,0.000000,2684,6,109,1,2,0.248000,0.124000,1516,1,
+ ,96,84554.333382,84507.666601,12.094000,1,80001.000000,0.000000,7.636731,1,4553.333318,0.000000,220,2,101,3,5,0.884000,0.176800,238,2,
+ ,97,84554.333382,84507.666601,7.823000,1,80001.000000,0.000000,3.423786,1,4653.333223,0.000000,174,1,17,0,2,0.260000,0.130000,140,2,
+ ,98,84554.333382,84507.666601,3.635000,1,80001.000000,0.000000,5.269899,1,4553.333199,0.000000,33,2,129,1,2,0.245000,0.122500,106,1,
+ ,99,84554.333382,84507.666601,5.457000,1,80001.000000,0.000000,4.684182,1,4653.332739,0.000000,35,2,69,4,5,1.569000,0.313800,72,1,
+ ,100,84554.333382,84507.666601,4.868000,1,80001.000000,0.000000,15.300099,1,4553.333414,0.000000,1787,7,473,5,7,1.097000,0.156714,1590,2,
+30_18,1,85087.665744,84720.999522,10.002000,1,80001.000000,0.000000,76.150652,1,5086.665744,0.000000,5143,18,928,543,546,59.668000,0.109282,4628,3,
+ ,101,84554.333382,84507.666601,15.498000,1,80001.000000,0.000000,15.411163,1,4553.333294,0.000000,3047,6,183,19,20,3.301000,0.165050,2342,1,
+ ,102,84554.333382,84507.666601,15.634000,1,80001.000000,0.000000,2.064171,1,4553.333414,0.000000,52,0,10,0,1,0.127000,0.127000,60,1,
+ ,103,84554.333382,84507.666601,2.245000,1,80001.000000,0.000000,16.908915,1,4553.333306,0.000000,2125,10,597,11,18,2.822000,0.156778,2184,7,
+ ,104,84554.333382,84507.666601,17.108000,1,80001.000000,0.000000,35.288169,1,4553.333318,0.000000,873,7,439,29,30,4.578000,0.152600,1106,1,
+30_19,1,74633.999509,74633.999509,17.234000,1,70004.000000,0.000000,0.000000,1,4629.999509,0.000000,0,0,0,0,0,0.000000,0,1,1,
+ ,105,84554.333382,84507.666601,35.489000,1,80001.000000,0.000000,5.843274,1,4653.332722,0.000000,1051,4,92,3,4,0.494000,0.123500,854,1,
+ ,106,84554.333382,84507.666601,6.050000,1,80001.000000,0.000000,16.452887,1,4553.333223,0.000000,1122,8,228,4,5,1.699000,0.339800,948,1,
+ ,107,84554.333382,84507.666601,16.651000,1,80001.000000,0.000000,2.606846,1,4653.333262,0.000000,224,0,50,2,3,0.507000,0.169000,210,1,
+ ,108,84554.333382,84507.666601,2.785000,1,80001.000000,0.000000,16.070784,1,4553.332320,0.000000,2174,9,403,5,6,1.278000,0.213000,1354,1,
+ ,109,84554.333382,84507.666601,16.267000,1,80001.000000,0.000000,23.543861,1,4553.333223,0.000000,205,4,315,86,89,14.449000,0.162348,592,3,
+ ,110,84554.333382,84507.666601,23.784000,1,80001.000000,0.000000,6.777742,1,4553.333223,0.000000,454,3,58,11,15,1.989000,0.132600,478,4,
+ ,111,84554.333382,84507.666601,6.966000,1,80001.000000,0.000000,16.204401,1,4553.333297,0.000000,3681,2,104,0,1,0.457000,0.457000,2030,1,
+ ,112,84554.333382,84507.666601,16.405000,1,80001.000000,0.000000,14.015622,1,4553.333318,0.000000,3697,1,164,1,3,0.867000,0.289000,1858,2,
+ ,113,84554.333382,84507.666601,14.226000,1,80001.000000,0.000000,2.524565,1,4553.333223,0.000000,41,0,5,1,2,0.271000,0.135500,38,1,
+ ,114,84554.333382,84507.666601,2.719000,1,80001.000000,0.000000,7.371451,1,4553.333318,0.000000,1241,5,204,4,5,0.863000,0.172600,1044,1,
+ ,115,84554.333382,84507.666601,7.564000,1,80001.000000,0.000000,11.295579,1,4553.333307,0.000000,998,3,85,6,10,1.802000,0.180200,750,4,
+ ,116,84554.333382,84507.666601,11.540000,1,80001.000000,0.000000,24.821985,1,4553.333270,0.000000,1611,9,395,48,50,8.717000,0.174340,1500,2,
+ ,117,84554.333382,84507.666601,25.021000,1,80001.000000,0.000000,22.895361,1,4553.333309,0.000000,3964,7,333,4,5,0.879000,0.175800,2734,1,
+ ,118,84554.333382,84507.666601,23.098000,1,80001.000000,0.000000,9.236924,1,4553.333223,0.000000,614,3,115,0,3,0.542000,0.180667,558,3,
+30_20,1,75002.998224,75002.998224,15.596000,1,70003.000000,0.000000,0.000000,1,4999.998224,0.000000,0,0,0,0,0,0.000000,0,1,1,
+ ,119,84554.333382,84507.666601,9.435000,1,80001.000000,0.000000,22.373579,1,4553.333056,0.000000,3379,10,321,15,18,2.873000,0.159611,2326,3,
+ ,120,84554.333382,84507.666601,22.595000,1,80001.000000,0.000000,3.301720,1,4553.333414,0.000000,7,1,2,1,3,0.370000,0.123333,14,2,
+ ,121,84554.333382,84507.666601,3.484000,1,80001.000000,0.000000,9.023351,1,4653.333103,0.000000,168,4,181,23,24,4.306000,0.179417,300,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+ ,2,85087.665744,84720.999522,107.809000,1,80001.000000,0.000000,3.521604,1,5653.332347,0.000000,752,3,302,11,12,1.483000,0.123583,550,1,
+ ,122,84554.333382,84507.666601,9.224000,1,80001.000000,0.000000,11.981059,1,4553.333306,0.000000,947,1,115,6,7,1.703000,0.243286,752,1,
+ ,123,84554.333382,84507.666601,12.224000,1,80001.000000,0.000000,16.709967,1,4653.333156,0.000000,2153,2,318,20,21,3.629000,0.172810,1564,1,
+ ,124,84554.333382,84507.666601,16.910000,1,80001.000000,0.000000,4.017946,1,4553.333414,0.000000,259,0,69,4,5,0.942000,0.188400,304,1,
+ ,125,84554.333382,84507.666601,4.197000,1,80001.000000,0.000000,8.423060,1,4653.333286,0.000000,1103,1,44,19,20,3.860000,0.193000,524,1,
+ ,3,85087.665744,84720.999522,6.028000,1,80001.000000,0.000000,32.593733,1,5733.332270,0.000000,5016,24,1415,106,110,13.771000,0.125191,4740,4,
+ ,4,85087.665744,84720.999522,32.889000,1,80001.000000,0.000000,16.674370,1,5733.332270,0.000000,8825,9,257,11,12,1.942000,0.161833,4308,1,
+ ,126,84554.333382,84507.666601,8.622000,1,80001.000000,0.000000,19.824779,1,4653.333223,0.000000,438,5,171,15,18,3.299000,0.183278,578,3,
+ ,5,85087.665744,84720.999522,16.926000,1,80001.000000,0.000000,5.607433,1,5733.332246,0.000000,2618,3,345,14,15,1.726000,0.115067,2104,1,
+ ,6,84720.999331,84720.999522,5.799000,1,80001.000000,0.000000,10.936400,1,4719.999331,0.000000,148,4,71,33,35,7.123000,0.203514,320,2,
+ ,127,84554.333382,84507.666601,20.048000,1,80001.000000,0.000000,16.282378,1,4653.333127,0.000000,3625,5,58,1,3,0.578000,0.192667,2304,2,
+ ,128,84554.333382,84507.666601,16.506000,1,80001.000000,0.000000,39.955374,1,4653.333200,0.000000,5988,16,405,52,56,7.552000,0.134857,5352,4,
+ ,129,84554.333382,84507.666601,40.159000,1,80001.000000,0.000000,1.946724,1,4553.333382,0.000000,17,0,4,1,2,0.397000,0.198500,22,1,
+ ,130,84554.333382,84507.666601,2.126000,1,80001.000000,0.000000,4.339864,1,4553.333414,0.000000,300,3,83,1,2,0.322000,0.161000,338,1,
+ ,131,84554.333382,84507.666601,4.517000,1,80001.000000,0.000000,14.032448,1,4553.331954,0.000000,391,5,144,16,18,3.125000,0.173611,522,2,
+ ,132,84554.333382,84507.666601,14.227000,1,80001.000000,0.000000,18.491864,1,4553.333318,0.000000,2424,4,219,23,26,5.556000,0.213692,1854,3,
+ ,133,84554.333382,84507.666601,18.757000,1,80001.000000,0.000000,6.403119,1,4553.333000,0.000000,936,8,185,1,2,0.262000,0.131000,866,1,
+ ,134,84554.333382,84507.666601,6.592000,1,80001.000000,0.000000,9.377137,1,4553.333343,0.000000,460,1,104,36,37,5.469000,0.147811,600,1,
+ ,135,84554.333382,84507.666601,9.575000,1,80001.000000,0.000000,6.846933,1,4553.333223,0.000000,822,2,137,4,6,1.190000,0.198333,920,2,
+ ,136,84554.333382,84507.666601,7.027000,1,80001.000000,0.000000,13.948293,1,4553.333295,0.000000,31,1,123,42,46,9.765000,0.212283,204,4,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+ ,137,84554.333382,84507.666601,14.157000,1,80001.000000,0.000000,9.577848,1,4653.333286,0.000000,436,2,165,24,25,4.617000,0.184680,540,1,
+ ,138,84554.333382,84507.666601,9.779000,1,80001.000000,0.000000,3.587478,1,4653.333200,0.000000,693,0,22,0,1,0.117000,0.117000,380,1,
+ ,139,84554.333382,84507.666601,3.776000,1,80001.000000,0.000000,15.125292,1,4653.332817,0.000000,2425,4,154,8,11,1.725000,0.156818,1526,3,
+ ,140,84554.333382,84507.666601,15.372000,1,80001.000000,0.000000,14.116131,1,4653.332615,0.000000,1758,4,214,2,3,0.697000,0.232333,1560,1,
+ ,141,84554.333382,84507.666601,14.319000,1,80001.000000,0.000000,59.414207,1,4653.333249,0.000000,5643,14,1351,151,153,19.991000,0.130660,4464,2,
+ ,142,84554.333382,84507.666601,59.625000,1,80001.000000,0.000000,11.738189,1,4653.333223,0.000000,2659,2,49,0,2,0.243000,0.121500,1652,2,
+ ,143,84554.333382,84507.666601,11.915000,1,80001.000000,0.000000,29.097663,1,4653.333177,0.000000,6607,3,175,2,3,0.393000,0.131000,4694,1,
+30_23,1,74801.999694,74801.999708,6.165000,1,70002.000000,0.000000,5.860143,1,4799.999694,0.000000,2097,2,31,4,5,0.662000,0.132400,1522,1,
+ ,144,84554.333382,84507.666601,29.296000,1,80001.000000,0.000000,27.639596,1,4653.333199,0.000000,2882,11,358,62,63,9.048000,0.143619,2398,1,
+ ,145,84554.333382,84507.666601,27.867000,1,80001.000000,0.000000,20.528072,1,4653.333223,0.000000,1472,6,220,10,14,2.857000,0.204071,1156,4,
+30_21,1,84833.999799,84833.999703,16.873000,1,80004.000000,0.000000,4.184090,1,4829.999799,0.000000,1140,6,207,3,6,0.652000,0.108667,1224,3,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+ ,146,84554.333382,84507.666601,20.789000,1,80001.000000,0.000000,20.610968,1,4553.333318,0.000000,402,3,161,84,88,13.579000,0.154307,718,4,
+ ,147,84554.333382,84507.666601,20.868000,1,80001.000000,0.000000,11.088752,1,4653.333810,0.000000,828,3,79,7,10,1.426000,0.142600,698,3,
+ ,148,84554.333382,84507.666601,11.338000,1,80001.000000,0.000000,8.208772,1,4553.333266,0.000000,273,3,66,31,32,4.516000,0.141125,490,1,
+ ,149,84554.333382,84507.666601,8.406000,1,80001.000000,0.000000,19.216050,1,4553.333263,0.000000,1326,10,536,95,96,12.262000,0.127729,1380,1,
+ ,150,84554.333382,84507.666601,19.414000,1,80001.000000,0.000000,10.979178,1,4553.332816,0.000000,820,6,152,2,6,0.925000,0.154167,792,4,
+ ,151,84554.333382,84507.666601,11.159000,1,80001.000000,0.000000,8.878545,1,4553.332860,0.000000,837,1,125,19,21,3.080000,0.146667,642,2,
+ ,152,84554.333382,84507.666601,9.089000,1,80001.000000,0.000000,13.096915,1,4553.333318,0.000000,2517,3,214,2,4,0.493000,0.123250,1606,2,
+ ,153,84554.333382,84507.666601,13.293000,1,80001.000000,0.000000,8.925850,1,4553.333318,0.000000,1154,6,141,0,3,0.813000,0.271000,994,3,
+ ,154,84554.333382,84507.666601,9.117000,1,80001.000000,0.000000,9.603791,1,4553.333265,0.000000,623,6,134,6,7,1.179000,0.168429,578,1,
+ ,155,84554.333382,84507.666601,9.815000,1,80001.000000,0.000000,11.194089,1,4553.333194,0.000000,651,6,189,4,7,1.332000,0.190286,710,3,
+ ,156,84554.333382,84507.666601,11.395000,1,80001.000000,0.000000,16.842456,1,4553.333318,0.000000,35,2,133,97,98,12.525000,0.127806,356,1,
+ ,157,84554.333382,84507.666601,17.046000,1,80001.000000,0.000000,3.157063,1,4553.333318,0.000000,130,0,16,1,3,0.356000,0.118667,130,2,
+ ,158,84554.333382,84507.666601,3.340000,1,80001.000000,0.000000,13.587458,1,4553.333223,0.000000,277,2,192,6,9,1.332000,0.148000,468,3,
+ ,159,84554.333382,84507.666601,13.845000,1,80001.000000,0.000000,8.206465,1,4553.333111,0.000000,279,0,138,36,38,4.625000,0.121711,544,2,
+ ,160,84554.333382,84507.666601,8.433000,1,80001.000000,0.000000,15.911906,1,4553.333292,0.000000,989,0,73,0,5,0.905000,0.181000,798,5,
+ ,161,84554.333382,84507.666601,16.157000,1,80001.000000,0.000000,5.684461,1,4553.333318,0.000000,304,4,117,12,14,1.931000,0.137929,412,2,
+ ,162,84554.333382,84507.666601,5.876000,1,80001.000000,0.000000,9.429163,1,4553.333358,0.000000,2045,5,67,1,2,0.224000,0.112000,2128,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+ ,163,84554.333382,84507.666601,9.621000,1,80001.000000,0.000000,10.444909,1,4553.333286,0.000000,135,1,144,44,46,6.666000,0.144913,394,2,
+ ,164,84554.333382,84507.666601,10.655000,1,80001.000000,0.000000,8.681834,1,4553.333318,0.000000,1037,4,101,4,7,0.990000,0.141429,728,3,
+ ,165,84554.333382,84507.666601,8.896000,1,80001.000000,0.000000,6.554889,1,4553.333318,0.000000,28,2,206,0,3,0.410000,0.136667,112,3,
+ ,166,84554.333382,84507.666601,6.742000,1,80001.000000,0.000000,14.168527,1,4553.333318,0.000000,1273,7,378,20,23,3.255000,0.141522,1460,3,
+ ,167,84554.333382,84507.666601,14.381000,1,80001.000000,0.000000,9.559014,1,4553.333296,0.000000,414,5,170,4,9,1.682000,0.186889,550,5,
+ ,168,84554.333382,84507.666601,9.737000,1,80001.000000,0.000000,10.711920,1,4553.333294,0.000000,1402,5,65,1,2,0.361000,0.180500,924,1,
+ ,169,84554.333382,84507.666601,10.929000,1,80001.000000,0.000000,19.487919,1,4553.333220,0.000000,2431,12,235,7,8,1.539000,0.192375,2226,1,
+30_22,1,84548.665859,84548.665859,21.794000,1,80002.000000,0.000000,1.459519,1,4546.665859,0.000000,92,2,12,1,2,0.218000,0.109000,150,1,
+ ,170,84554.333382,84507.666601,19.694000,1,80001.000000,0.000000,10.247705,1,4553.333318,0.000000,331,3,103,20,21,3.999000,0.190429,404,1,
+ ,171,84554.333382,84507.666601,10.599000,1,80001.000000,0.000000,24.887179,1,4553.333336,0.000000,1528,10,688,67,68,9.443000,0.138868,2454,1,
+ ,172,84554.333382,84507.666601,25.149000,1,80001.000000,0.000000,10.389406,1,4553.333414,0.000000,1712,4,89,19,20,3.564000,0.178200,1138,1,
+ ,173,84554.333382,84507.666601,10.595000,1,80001.000000,0.000000,6.074988,1,4553.333318,0.000000,62,2,221,10,12,1.665000,0.138750,234,2,
+ ,174,84554.333382,84507.666601,6.283000,1,80001.000000,0.000000,6.898068,1,4553.333318,0.000000,80,2,51,1,4,0.674000,0.168500,126,3,
+ ,175,84554.333382,84507.666601,7.094000,1,80001.000000,0.000000,9.153014,1,4553.333127,0.000000,96,0,18,1,3,0.467000,0.155667,84,2,
+ ,176,84554.333382,84507.666601,9.346000,1,80001.000000,0.000000,3.850139,1,4553.333414,0.000000,289,1,127,0,3,0.478000,0.159333,270,3,
+ ,177,84554.333382,84507.666601,4.066000,1,80001.000000,0.000000,13.758115,1,4553.333318,0.000000,629,3,230,24,26,4.447000,0.171038,732,2,
+ ,178,84554.333382,84507.666601,14.016000,1,80001.000000,0.000000,5.889148,1,4553.333318,0.000000,605,9,241,8,10,1.290000,0.129000,812,2,
+30_25,1,84399.666384,84399.666384,7.734000,1,80003.000000,0.000000,2.646786,1,4396.666384,0.000000,63,1,7,2,3,0.342000,0.114000,78,1,
+ ,179,84554.333382,84507.666601,6.072000,1,80001.000000,0.000000,20.629950,1,4553.333414,0.000000,1211,2,356,89,90,11.075000,0.123056,1772,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+ ,180,84554.333382,84507.666601,20.866000,1,80001.000000,0.000000,8.753476,1,4553.333318,0.000000,635,5,210,7,8,1.362000,0.170250,610,1,
+ ,181,84554.333382,84507.666601,9.081000,1,80001.000000,0.000000,5.246063,1,5053.333252,0.000000,577,4,225,14,15,2.482000,0.165467,474,1,
+ ,182,84554.333382,84507.666601,5.445000,1,80001.000000,0.000000,2.086108,1,4553.333318,0.000000,494,1,88,1,2,0.260000,0.130000,574,1,
+ ,183,84554.333382,84507.666601,2.269000,1,80001.000000,0.000000,4.413748,1,5053.333239,0.000000,2153,6,138,8,9,1.485000,0.165000,1090,1,
+ ,184,84554.333382,84507.666601,4.595000,1,80001.000000,0.000000,4.373698,1,4553.333318,0.000000,2309,4,186,2,3,0.474000,0.158000,1304,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+ ,185,84554.333382,84507.666601,4.611000,1,80001.000000,0.000000,10.212079,1,4553.333318,0.000000,192,3,165,44,46,7.759000,0.168674,458,2,
+ ,186,84554.333382,84507.666601,10.405000,1,80001.000000,0.000000,30.238837,1,4553.333368,0.000000,165,4,163,171,172,24.627000,0.143180,732,1,
+ ,187,84554.333382,84507.666601,30.434000,1,80001.000000,0.000000,8.014195,1,4553.333318,0.000000,206,4,61,35,36,5.635000,0.156528,372,1,
+ ,188,84554.333382,84507.666601,8.194000,1,80001.000000,0.000000,2.080568,1,4553.333239,0.000000,788,10,138,0,1,0.113000,0.113000,880,1,
+ ,189,84554.333382,84507.666601,2.268000,1,80001.000000,0.000000,2.480484,1,4553.333318,0.000000,85,4,72,0,4,0.424000,0.106000,112,4,
+ ,190,84554.333382,84507.666601,2.722000,1,80001.000000,0.000000,53.758679,1,5153.333243,0.000000,15172,18,1042,72,80,10.259000,0.128238,9356,8,
+ ,191,84554.333382,84507.666601,53.965000,1,80001.000000,0.000000,2.061814,1,4553.333223,0.000000,129,3,34,2,3,0.699000,0.233000,166,1,
+ ,192,84554.333382,84507.666601,2.245000,1,80001.000000,0.000000,6.373634,1,5053.333366,0.000000,1253,4,263,13,14,2.039000,0.145643,980,1,
+ ,193,84554.333382,84507.666601,6.558000,1,80001.000000,0.000000,2.582633,1,5053.333251,0.000000,158,1,88,6,7,0.925000,0.132143,150,1,
+ ,194,84554.333382,84507.666601,2.770000,1,80001.000000,0.000000,6.139639,1,5053.333366,0.000000,3965,5,127,8,9,1.246000,0.138444,2568,1,
+ ,195,84554.333382,84507.666601,6.384000,1,80001.000000,0.000000,1.168356,1,5053.333271,0.000000,144,0,0,1,2,0.252000,0.126000,78,1,
+ ,196,84554.333382,84507.666601,1.348000,1,80001.000000,0.000000,63.045373,1,5153.333212,0.000000,5138,15,1300,283,284,43.457000,0.153018,4774,1,
+ ,197,84507.666601,84507.666601,63.255000,1,80001.000000,0.000000,0.102000,1,4506.666601,0.000000,0,0,0,0,1,0.096000,0.096000,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+30_27,1,85159.666231,84692.999628,10.251000,1,80003.000000,0.000000,8.884259,1,5156.666231,0.000000,5062,7,451,13,15,1.649000,0.109933,3062,2,
+30_26,1,74716.333711,74603.000390,15.304000,1,70003.000000,0.000000,29.402108,1,4713.333711,0.000000,12201,21,864,7,8,0.895000,0.111875,8646,1,
+ ,2,84692.999628,84692.999628,112.183000,1,80003.000000,0.000000,11.506521,1,4689.999628,0.000000,5673,10,248,15,19,2.340000,0.123158,3054,4,
+30_24,1,84606.333033,84606.332845,51.764000,1,80003.000000,0.000000,30.277887,1,4603.333033,0.000000,7997,15,512,120,121,12.880000,0.106446,6080,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+30_28,1,74723.999331,74723.999522,27.855000,1,70004.000000,0.000000,9.684734,1,4719.999331,0.000000,2829,15,623,33,34,3.555000,0.104559,2688,1,
+ ,2,74716.333711,74603.000390,182.487000,1,70003.000000,0.000000,24.789138,1,5480.000219,0.000000,10835,12,370,34,37,4.884000,0.132000,6754,3,
+ ,3,74603.000390,74603.000390,28.937000,1,70003.000000,0.000000,0.103000,1,4600.000390,0.000000,0,0,0,0,1,0.096000,0.096000,1,1,
+30_29,1,64428.333067,64428.333067,8.107000,1,60005.000000,0.000000,5.049337,1,4423.333067,0.000000,946,5,152,1,4,0.437000,0.109250,1162,3,
+30_30,1,74831.999799,74831.999703,10.895000,1,70002.000000,0.000000,7.715290,1,4829.999799,0.000000,329,2,226,37,39,4.760000,0.122051,480,2,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+30_16,1,75754.000112,74253.999991,25.203000,1,70004.000000,0.000000,8.067576,1,5750.000112,0.000000,5776,3,67,2,3,0.334000,0.111333,3514,1,
+ ,2,74253.999991,74253.999991,309.581000,1,70004.000000,0.000000,6.316000,1,4249.999991,0.000000,0,0,0,0,1,5.722000,5.722000,1,1,
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+Ins,Iter,UB,currentLB,Time.MP,MP.Status,Obj.MP,MP.Gap,Time.SP,SP.Status,Obj.SP,SP.Gap,Num.Lazy1,Num.Lazy2,Num.Lazy3,Num.SP-Nogood,Num.SP-S2.solved,Time.Solve.SP-S2,Avg.Time.SolveSP2,Num.IntegerSol.Found,Num.FeasibleSol.Found,Num.lazy3.added,Num.reduced.lazy3.added
+25_2,1,64088.000176,64084.000085,1.900000,1,60004.000000,0.000000,4.262307,1,4084.000176,0.000000,3189,2,29,0,1,0.070000,0.070000,1960,1,
+25_3,1,64132.999616,63892.999606,2.849000,1,60005.000000,0.000000,1.818999,1,4127.999616,0.000000,189,1,5,2,3,0.527000,0.175667,108,1,
+25_1,1,63811.999772,63811.999772,3.869000,1,60004.000000,0.000000,2.864531,1,3807.999772,0.000000,148,0,109,8,9,1.571000,0.174556,192,1,
+ ,2,64084.000085,64084.000085,15.681000,1,60004.000000,0.000000,0.094000,1,4080.000085,0.000000,0,0,0,0,0,0.000000,0,1,1,
+ ,2,64132.999616,63892.999606,24.574000,1,60005.000000,0.000000,1.543317,1,4227.999854,0.000000,165,3,48,8,9,0.568000,0.063111,152,1,
+ ,3,64132.999616,63892.999606,1.753000,1,60005.000000,0.000000,0.923991,1,4787.999872,0.000000,424,0,44,0,1,0.056000,0.056000,288,1,
+ ,4,63892.999606,63892.999606,1.014000,1,60005.000000,0.000000,2.912794,1,3887.999606,0.000000,94,1,43,26,27,1.931000,0.071519,134,1,
